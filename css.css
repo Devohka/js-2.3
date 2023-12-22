@@ -1,0 +1,13 @@
+img {
+    
+    height: 200px;
+    background-color: #f0f0f0;
+    transform: translateX(100%);
+    transition: all 500ms linear 500ms;
+}
+
+
+
+.item-img .move {
+    transform: translateX(0);
+}
